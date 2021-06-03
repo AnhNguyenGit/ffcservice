@@ -1,0 +1,163 @@
+[26-May-2020 00:05:39 America/New_York] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/ffcspxbt/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php:1856
+Stack trace:
+#0 /home/ffcspxbt/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php(1598): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Tue, 26 M...', 'Name: Ng\xE1\xBB\x8Dc<br...')
+#1 /home/ffcspxbt/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php(1434): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home/ffcspxbt/public_html/vi/SBT-Solutions.php(45): PHPMailer\PHPMailer\PHPMailer->send()
+#3 {main}
+  thrown in /home/ffcspxbt/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1856
+[26-May-2020 00:06:10 America/New_York] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/ffcspxbt/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php:1856
+Stack trace:
+#0 /home/ffcspxbt/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php(1598): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Tue, 26 M...', 'Name: Ng\xE1\xBB\x8Dc<br...')
+#1 /home/ffcspxbt/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php(1434): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home/ffcspxbt/public_html/vi/SBT-Solutions.php(45): PHPMailer\PHPMailer\PHPMailer->send()
+#3 {main}
+  thrown in /home/ffcspxbt/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1856
+[26-Jul-2020 12:16:41 America/New_York] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/ffcspxbt/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php:1856
+Stack trace:
+#0 /home/ffcspxbt/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php(1598): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Sun, 26 J...', 'Name: Vu hoai n...')
+#1 /home/ffcspxbt/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php(1434): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home/ffcspxbt/public_html/vi/SBT-Solutions.php(45): PHPMailer\PHPMailer\PHPMailer->send()
+#3 {main}
+  thrown in /home/ffcspxbt/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1856
+[26-Aug-2020 23:01:02 America/New_York] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/ffcspxbt/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php:1856
+Stack trace:
+#0 /home/ffcspxbt/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php(1598): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Wed, 26 A...', 'Name: Vu hoai n...')
+#1 /home/ffcspxbt/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php(1434): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home/ffcspxbt/public_html/vi/SBT-Solutions.php(45): PHPMailer\PHPMailer\PHPMailer->send()
+#3 {main}
+  thrown in /home/ffcspxbt/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1856
+[09-Jan-2021 08:50:14 America/New_York] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/ffcspxbt/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php:1856
+Stack trace:
+#0 /home/ffcspxbt/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php(1598): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Sat, 9 Ja...', 'Full name: Minh...')
+#1 /home/ffcspxbt/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php(1434): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home/ffcspxbt/public_html/vi/thanh-vien.php(148): PHPMailer\PHPMailer\PHPMailer->send()
+#3 {main}
+  thrown in /home/ffcspxbt/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1856
+[09-Jan-2021 20:47:16 America/New_York] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/ffcspxbt/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php:1856
+Stack trace:
+#0 /home/ffcspxbt/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php(1598): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Sat, 9 Ja...', 'Full name: abc<...')
+#1 /home/ffcspxbt/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php(1434): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home/ffcspxbt/public_html/vi/thanh-vien.php(148): PHPMailer\PHPMailer\PHPMailer->send()
+#3 {main}
+  thrown in /home/ffcspxbt/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1856
+[09-Jan-2021 22:24:43 America/New_York] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/ffcspxbt/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php:1856
+Stack trace:
+#0 /home/ffcspxbt/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php(1598): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Sat, 9 Ja...', 'Full name: test...')
+#1 /home/ffcspxbt/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php(1434): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home/ffcspxbt/public_html/vi/thanh-vien.php(148): PHPMailer\PHPMailer\PHPMailer->send()
+#3 {main}
+  thrown in /home/ffcspxbt/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1856
+[09-Jan-2021 22:30:13 America/New_York] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/ffcspxbt/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php:1856
+Stack trace:
+#0 /home/ffcspxbt/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php(1598): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Sat, 9 Ja...', 'Full name: Anh ...')
+#1 /home/ffcspxbt/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php(1434): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home/ffcspxbt/public_html/vi/thanh-vien.php(148): PHPMailer\PHPMailer\PHPMailer->send()
+#3 {main}
+  thrown in /home/ffcspxbt/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1856
+[10-Jan-2021 09:52:16 America/New_York] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/ffcspxbt/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php:1856
+Stack trace:
+#0 /home/ffcspxbt/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php(1598): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Sun, 10 J...', 'Name: david<br>...')
+#1 /home/ffcspxbt/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php(1434): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home/ffcspxbt/public_html/vi/SBT-Solutions.php(45): PHPMailer\PHPMailer\PHPMailer->send()
+#3 {main}
+  thrown in /home/ffcspxbt/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1856
+[10-Jan-2021 09:53:25 America/New_York] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/ffcspxbt/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php:1856
+Stack trace:
+#0 /home/ffcspxbt/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php(1598): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Sun, 10 J...', 'Full name: davi...')
+#1 /home/ffcspxbt/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php(1434): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home/ffcspxbt/public_html/vi/lien-he.php(146): PHPMailer\PHPMailer\PHPMailer->send()
+#3 {main}
+  thrown in /home/ffcspxbt/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1856
+[10-Jan-2021 19:35:09 America/New_York] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/ffcspxbt/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php:1856
+Stack trace:
+#0 /home/ffcspxbt/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php(1598): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Sun, 10 J...', 'Name: Minh <br>...')
+#1 /home/ffcspxbt/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php(1434): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home/ffcspxbt/public_html/vi/SBT-Solutions.php(45): PHPMailer\PHPMailer\PHPMailer->send()
+#3 {main}
+  thrown in /home/ffcspxbt/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1856
+[10-Jan-2021 22:18:18 America/New_York] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/ffcspxbt/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php:1856
+Stack trace:
+#0 /home/ffcspxbt/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php(1598): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Sun, 10 J...', 'Name: huy<br>Em...')
+#1 /home/ffcspxbt/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php(1434): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home/ffcspxbt/public_html/vi/SBT-Solutions.php(45): PHPMailer\PHPMailer\PHPMailer->send()
+#3 {main}
+  thrown in /home/ffcspxbt/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1856
+[10-Jan-2021 22:18:32 America/New_York] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/ffcspxbt/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php:1856
+Stack trace:
+#0 /home/ffcspxbt/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php(1598): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Sun, 10 J...', 'Name: huy<br>Em...')
+#1 /home/ffcspxbt/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php(1434): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home/ffcspxbt/public_html/vi/SBT-Solutions.php(45): PHPMailer\PHPMailer\PHPMailer->send()
+#3 {main}
+  thrown in /home/ffcspxbt/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1856
+[10-Jan-2021 22:19:00 America/New_York] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/ffcspxbt/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php:1856
+Stack trace:
+#0 /home/ffcspxbt/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php(1598): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Sun, 10 J...', 'Name: huy<br>Em...')
+#1 /home/ffcspxbt/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php(1434): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home/ffcspxbt/public_html/vi/SBT-Solutions.php(45): PHPMailer\PHPMailer\PHPMailer->send()
+#3 {main}
+  thrown in /home/ffcspxbt/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1856
+[10-Jan-2021 22:19:27 America/New_York] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/ffcspxbt/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php:1856
+Stack trace:
+#0 /home/ffcspxbt/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php(1598): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Sun, 10 J...', 'Name: dfdf<br>E...')
+#1 /home/ffcspxbt/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php(1434): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home/ffcspxbt/public_html/vi/SBT-Solutions.php(45): PHPMailer\PHPMailer\PHPMailer->send()
+#3 {main}
+  thrown in /home/ffcspxbt/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1856
+[11-Jan-2021 00:16:11 America/New_York] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/ffcspxbt/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php:1856
+Stack trace:
+#0 /home/ffcspxbt/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php(1598): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Mon, 11 J...', 'Name: Anh Nguye...')
+#1 /home/ffcspxbt/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php(1434): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home/ffcspxbt/public_html/vi/SBT-Solutions.php(45): PHPMailer\PHPMailer\PHPMailer->send()
+#3 {main}
+  thrown in /home/ffcspxbt/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1856
+[11-Jan-2021 00:25:01 America/New_York] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (From): 1234@Qazx in /home/ffcspxbt/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php:1253
+Stack trace:
+#0 /home/ffcspxbt/public_html/vi/SBT-Solutions.php(44): PHPMailer\PHPMailer\PHPMailer->setFrom('1234@Qazx', 'Noreply')
+#1 {main}
+  thrown in /home/ffcspxbt/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1253
+[11-Jan-2021 00:26:27 America/New_York] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (From): 1234@Qazx in /home/ffcspxbt/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php:1253
+Stack trace:
+#0 /home/ffcspxbt/public_html/vi/SBT-Solutions.php(44): PHPMailer\PHPMailer\PHPMailer->setFrom('1234@Qazx', 'Noreply')
+#1 {main}
+  thrown in /home/ffcspxbt/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1253
+[11-Jan-2021 00:28:53 America/New_York] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (From): 1234@Qazx in /home/ffcspxbt/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php:1253
+Stack trace:
+#0 /home/ffcspxbt/public_html/vi/SBT-Solutions.php(44): PHPMailer\PHPMailer\PHPMailer->setFrom('1234@Qazx', 'Noreply')
+#1 {main}
+  thrown in /home/ffcspxbt/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1253
+[11-Jan-2021 00:31:04 America/New_York] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (From): 1234@Qazx in /home/ffcspxbt/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php:1253
+Stack trace:
+#0 /home/ffcspxbt/public_html/vi/SBT-Solutions.php(44): PHPMailer\PHPMailer\PHPMailer->setFrom('1234@Qazx', 'Noreply')
+#1 {main}
+  thrown in /home/ffcspxbt/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1253
+[11-Jan-2021 07:52:20 America/New_York] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (From): 1234@Qazx in /home/ffcspxbt/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php:1253
+Stack trace:
+#0 /home/ffcspxbt/public_html/vi/SBT-Solutions.php(44): PHPMailer\PHPMailer\PHPMailer->setFrom('1234@Qazx', 'Noreply')
+#1 {main}
+  thrown in /home/ffcspxbt/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1253
+[11-Jan-2021 07:54:08 America/New_York] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (From): 1234@Qazx in /home/ffcspxbt/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php:1253
+Stack trace:
+#0 /home/ffcspxbt/public_html/vi/SBT-Solutions.php(44): PHPMailer\PHPMailer\PHPMailer->setFrom('1234@Qazx', 'Noreply')
+#1 {main}
+  thrown in /home/ffcspxbt/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1253
+[11-Jan-2021 08:02:22 America/New_York] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (From): 1234@Qazx in /home/ffcspxbt/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php:1253
+Stack trace:
+#0 /home/ffcspxbt/public_html/vi/SBT-Solutions.php(44): PHPMailer\PHPMailer\PHPMailer->setFrom('1234@Qazx', 'Noreply')
+#1 {main}
+  thrown in /home/ffcspxbt/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1253
+[11-Jan-2021 08:05:12 America/New_York] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (From): 1234@Qazx in /home/ffcspxbt/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php:1253
+Stack trace:
+#0 /home/ffcspxbt/public_html/vi/SBT-Solutions.php(44): PHPMailer\PHPMailer\PHPMailer->setFrom('1234@Qazx', 'Noreply')
+#1 {main}
+  thrown in /home/ffcspxbt/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1253
+[11-Jan-2021 08:39:03 America/New_York] PHP Notice:  Undefined variable: replyEmail in /home/ffcspxbt/public_html/vi/SBT-Solutions.php on line 45
+[11-Jan-2021 08:39:03 America/New_York] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (Reply-To):  in /home/ffcspxbt/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php:1079
+Stack trace:
+#0 /home/ffcspxbt/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php(1046): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress('Reply-To', '', 'Noreply')
+#1 /home/ffcspxbt/public_html/vi/SBT-Solutions.php(45): PHPMailer\PHPMailer\PHPMailer->addReplyTo(NULL, 'Noreply')
+#2 {main}
+  thrown in /home/ffcspxbt/public_html/vendor/phpmailer/phpmailer/src/PHPMailer.php on line 1079
+[11-Jan-2021 08:51:59 America/New_York] PHP Notice:  Undefined index: country in /home/ffcspxbt/public_html/vi/thanh-vien.php on line 225
+[11-Jan-2021 20:55:10 America/New_York] PHP Notice:  Undefined index: country in /home/ffcspxbt/public_html/vi/thanh-vien.php on line 225
+[13-Jan-2021 18:22:45 America/New_York] PHP Notice:  Undefined index: country in /home/ffcspxbt/public_html/vi/thanh-vien.php on line 225
+[13-Jan-2021 18:34:21 America/New_York] PHP Notice:  Undefined index: country in /home/ffcspxbt/public_html/vi/thanh-vien.php on line 225
