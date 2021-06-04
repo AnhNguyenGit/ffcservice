@@ -17,6 +17,9 @@
         /* font-weight: bold; */
    
 }
+#experts-page .expert-inf-item{
+    display: flex;
+}
 
 #experts-page .expert-inf-item-detail{
     padding-left: 20px;
@@ -29,10 +32,29 @@
 
 #experts-page .expert-inf-item-detail .expert-inf-country{
     padding-bottom: 20px;
+    display: flex;
 }
 
 #experts-page .expert-inf-item-detail .expert-inf-country>.expert-inf-country-name{
     font-size: 1.5rem;
     color: #1C8B1C;
     padding-right: 10px;
+}
+
+#experts-page .main-header-img{
+    min-width: 800px;
+}
+
+@media only screen and (max-width:800px) {
+    #experts-page .expert-inf-item{
+    
+       flex-direction: column;
+    }
+    #experts-page .page-title{    
+        font-size: 2rem;
+
+    }
+    #experts-page .expert-inf-item-detail{
+        padding-left: 0;
+    }
 }
