@@ -247,15 +247,19 @@
 		</script>
 	<script type="text/javascript">
 		function googleTranslateElementInit() {
-			new google.translate.TranslateElement({ pageLanguage: 'en' }, 'translate_select');
+			new google.translate.TranslateElement({ pageLanguage: 'vi' }, 'translate_select');
 		}
 	</script>
 
 
 	<script type="text/javascript">
+		// $('#translate_select').on('click', function (data) {
+		// 	if (this.firstChild.firstChild.firstChild.value === 'vi')
+		// 		window.location.href = 'vi';
+		// });
 		$('#translate_select').on('click', function (data) {
-			if (this.firstChild.firstChild.firstChild.value === 'vi')
-				window.location.href = 'vi';
+			if (this.firstChild.firstChild.firstChild.value === 'en')
+				window.location.href = 'https://ffcservicetraining.com';
 		});
 	</script>
 	<script type="text/javascript">
