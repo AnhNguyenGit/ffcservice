@@ -11,6 +11,8 @@
         position: absolute;
         font-size: 4rem;
         color: #1C8B1C;
+        left: 20%;
+        top:-200px;
         font-family: Arial;
         /* font-weight: bold; */
    
@@ -43,7 +45,7 @@
     min-width: 800px;
 }
 
-@media only screen and (max-width:800px) {
+@media only screen and (max-width:600px) {
     #experts-page .expert-inf-item{
     
        flex-direction: column;
