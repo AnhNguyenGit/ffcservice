@@ -52,6 +52,9 @@
     }
 }
 @media only screen and (max-width:600px) {
+    .mbr-fullscreen{
+        min-height: 60vh;
+    }
     #experts-page .expert-inf-item{
     
        flex-direction: column;
