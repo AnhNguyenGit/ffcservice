@@ -49,8 +49,6 @@
         font-size: 2rem;
         left: 20%;
         top:-70px;
-       
-
     }
 }
 @media only screen and (max-width:600px) {
@@ -58,11 +56,14 @@
     
        flex-direction: column;
     }
-    #experts-page .page-title{    
+    #experts-page .page-title{
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%,-50%);    
         font-size: 2rem;
-        left: 20%;
-        top:-70px;
-        text-align: center !important;
+        text-align: center;
+        /* left: 20%;
+        top:-70px; */
 
     }
     #experts-page .expert-inf-item-detail{
