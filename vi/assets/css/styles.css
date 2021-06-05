@@ -61,10 +61,7 @@
         left: 50%;
         transform: translate(-50%,-50%);    
         font-size: 2rem;
-        text-align: center;
-        /* left: 20%;
-        top:-70px; */
-
+        text-align: center;    
     }
     #experts-page .expert-inf-item-detail{
         padding-left: 0;
