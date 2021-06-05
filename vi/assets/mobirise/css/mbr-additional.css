@@ -1138,11 +1138,13 @@ section.lazy-placeholder:after {
 .cid-rT7ZlM03jF H1 {
   color: #fc1b1b;
 }
-.cid-rT7ZoNtIO7 {
-  padding-top: 90px;
-  padding-bottom: 30px;
+.cid-rT7ZoNtIO7 { 
   background-image: url("../../../assets/images/bg01-1916x572.png");
 }
+.cid-rT7YdDrmJQE{
+  background-image: url("../../../assets/images/bg005-50.jpg");
+}
+
 @media (min-width: 992px) {
   .cid-rT7ZoNtIO7 .mbr-figure {
     padding-right: 4rem;
