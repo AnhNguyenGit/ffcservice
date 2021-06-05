@@ -8,9 +8,13 @@
     font-family: 'Roboto', sans-serif;
 }
 #experts-page .page-title{    
+        position: absolute;
         font-size: 4rem;
         color: #1C8B1C;
+        left: 20%;
+        top: 20%;
         font-family: Arial;
+        /* font-weight: bold; */
    
 }
 #experts-page .expert-inf-item{
