@@ -52,6 +52,8 @@
     }
     #experts-page .page-title{    
         font-size: 2rem;
+        left: 20%;
+        top:-100px;
 
     }
     #experts-page .expert-inf-item-detail{
