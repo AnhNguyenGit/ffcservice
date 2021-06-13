@@ -1,16 +1,18 @@
 "use strict";
 
 const app = angular.module('ffcExpertApp',[]);
-app.controller('ffcExpertCtrl', function($http){   
+app.controller('ffcExpertCtrl', function($http,appConfig){  
+    const serviceUrl = appConfig.serviceUrl
     var vm = this;
     vm.lang = 'vi';
     vm.experts =[];
     vm.loadExperts = loadExperts;
+    vm.isUrl = isUrl;
     vm.items = []
     loadExperts();  
     //private function
     function loadExperts(){
-        $http.get(location.origin+"/admin/storage/expert.json").then(res=>{
+        $http.get(serviceUrl+"/admin/storage/expert.json").then(res=>{
 
            
             vm.experts = res.data.map(item =>{
@@ -18,6 +20,8 @@ app.controller('ffcExpertCtrl', function($http){
                 let temp   = {...item};
                 temp.fullName = item.fullName[vm.lang];
                 temp.countryName = item.countryName[vm.lang];
+                temp.picture = verifyLink(item.picture);
+                temp.countryFlag = verifyLink(item.countryFlag);
                 temp.experiences= item.experiences.map(x=>
                     {
                         return {
@@ -42,6 +46,17 @@ app.controller('ffcExpertCtrl', function($http){
             return temp;
         });         
         })
+    }
+
+    function isUrl(link){
+        return link.starsWith('http://') || link.starstWith('https://');
+    }
+
+    function verifyLink(link){
+        if( link.startsWith('http://') || link.startsWith('https://'))
+            return link;
+        else
+            return appConfig.serviceUrl+link;
     }
     
     

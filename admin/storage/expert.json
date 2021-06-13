@@ -14,8 +14,8 @@
             "en": "Cambodia",
             "vi": "Cambodia"
         },
-        "countryFlag": "http://localhost:9091/assets/images/flags/flag_cambodia.png",
-        "picture": "http://localhost:9091/assets/images/experts/expert_chun.png",
+        "countryFlag": "/assets/images/flags/flag_cambodia.png",
+        "picture": "/assets/images/experts/expert_chun.png",
         "experiences": [
             {
                 "code": 1,
@@ -100,8 +100,8 @@
                             "en": "Thailand",
                             "vi": "Thailand"
                         },
-                        "countryFlag": "http://localhost:9091/assets/images/flags/flag_thailand.png",
-                        "picture": "http://localhost:9091/assets/images/experts/expert_tom.png",
+                        "countryFlag": "/assets/images/flags/flag_thailand.png",
+                        "picture": "/assets/images/experts/expert_tom.png",
                         "experiences": [
                             {
                                 "code": 1,
