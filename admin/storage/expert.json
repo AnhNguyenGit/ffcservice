@@ -1,0 +1,199 @@
+[
+    {
+        "code": "exp001",
+        "name": {
+            "en": "Chun",
+            "vi": ""
+        },
+        "fullName": {
+            "en": "Mr. Chun Vaeha",
+            "vi": "Mr. Chun Vaeha"
+        },
+        "countrycode": "cambodia",
+        "countryName": {
+            "en": "Cambodia",
+            "vi": "Cambodia"
+        },
+        "countryFlag": "http://localhost:9091/assets/images/flags/flag_cambodia.png",
+        "picture": "http://localhost:9091/assets/images/experts/expert_chun.png",
+        "experiences": [
+            {
+                "code": 1,
+                "content": {
+                    "en": "4-year Experience in Forex trader",
+                    "vi": ""
+                },
+                "group": "",
+                "classes": ""
+            },
+            {
+                "code": 2,
+                "content": {
+                    "en": "3-Year Experience in professional trader",
+                    "vi": "Kinh nghiệm 3 năm giao dịch viên chuyên nghiệp"
+                },
+                "group": "",
+                "classes": ""
+            },
+            {
+                "code": 3,
+                "content": {
+                    "en": "• Business coaching for marketing",
+                    "vi": "• Huấn luyện tiếp thị cho doanh nghiệp"
+                },
+                "group": "",
+                "classes": ""
+            },
+            {
+                "code": 4,
+                "content": {
+                    "en": "Training team leader, Coaching, Marketing and consultant for business plan to key leader. Expert in business coach training with the longer-term aspiration of moving into business management role.",
+                    "vi": "Đào tạo trưởng nhóm, Huấn luyện, Tiếp thị và tư vấn kế hoạch kinh doanh cho ban lãnh đạo. Chuyên gia đào tạo huấn luyện viên doanh nghiệp với nguyện vọng lâu dài là chuyển sang vai trò quản lý doanh nghiệp."
+                },
+                "group": "3",
+                "classes": "pl-4"
+            },
+            {
+                "code": 5,
+                "content": {
+                    "en": "• ETT (Entrepreneur Trainers Training)",
+                    "vi": "• ETT (Huấn luyện Doanh nhân Đào tạo Bậc thầy)"
+                },
+                "group": "",
+                "classes": ""
+            },
+            {
+                "code": 6,
+                "content": {
+                    "en": "• PTT (Pro Trader Training)",
+                    "vi": "• PTT (Đào tạo nhà giao dịch chuyên nghiệp)            "
+                },
+                "group": "",
+                "classes": ""
+            },
+            {
+                "code": 6,
+                "content": {
+                    "en": "• PBT (Pro Builder Training)",
+                    "vi": "• PBT (Đào tạo người xây dựng đội nhóm chuyên nghiệp)"}, "group":"", "classes": ""}
+                ],
+                "educations": [
+                    {
+                        "code": 1,
+                        "content": {
+                            "en": "• MBA from CIEDI in Cambodia and STMIK IKMI CERIBON in Indonesia",
+                            "vi":"• MBA của CIEDI ở Campuchia và STMIK IKMI CERIBON ở Indonesia"}, "group":""}
+                        ]
+                    },
+                    {
+                        "code": "exp002",
+                        "name": {
+                            "en": "Tom",
+                            "vi": "Tom"
+                        },
+                        "fullName": {
+                            "en": "Mr.Tom",
+                            "vi": "Mr.Tom"
+                        },
+                        "countrycode": "Thai",
+                        "countryName": {
+                            "en": "Thailand",
+                            "vi": "Thailand"
+                        },
+                        "countryFlag": "http://localhost:9091/assets/images/flags/flag_thailand.png",
+                        "picture": "http://localhost:9091/assets/images/experts/expert_tom.png",
+                        "experiences": [
+                            {
+                                "code": 1,
+                                "group": "",
+                                "content": {
+                                    "en": "• With 17 years of Personal Development and Business Training",
+                                    "vi": "• Với 17 năm Phát triển Cá nhân và Đào tạo Kinh doanh"
+                                },
+                                "classes": ""
+                            },
+                            {
+                                "code": 2,
+                                "group": "",
+                                "content": {
+                                    "en": "• Team Building Specialist for 11 years ",
+                                    "vi": "• Chuyên gia xây dựng nhóm với 11 năm kinh nghiệm"
+                                },
+                                "classes": ""
+                            },
+                            {
+                                "code": 3,
+                                "group": "",
+                                "content": {
+                                    "en": "• Coaches Business Strategy for 6 years ",
+                                    "vi": "• Huấn luyện chiến lược kinh doanh 11 năm kinh nghiệm"
+                                },
+                                "classes": ""
+                            },
+                            {
+                                "code": 4,
+                                "group": "",
+                                "content": {
+                                    "en": "• With 12 years experience in Relationship Coaching ",
+                                    "vi": "• Với 12 năm kinh nghiệm trong lĩnh vực Huấn luyện mối quan hệ"
+                                },
+                                "classes": ""
+                            },
+                            {
+                                "code": 5,
+                                "group": "",
+                                "content": {
+                                    "en": "• Sports and Performance Coach for 15 years.",
+                                    "vi": "• Huấn luyện viên Thể thao và Hiệu suất với 15 năm kinh nghiệm"
+                                },
+                                "classes": ""
+                            },
+                            {
+                                "code": 6,
+                                "group": "",
+                                "content": {
+                                    "en": "• Extreme Goal Getting Specialist for 5 years",
+                                    "vi": "• Chuyên gia đạt được mục tiêu cao với 5 năm kinh nghiệm"
+                                },
+                                "classes": ""
+                            },
+                            {
+                                "code": 7,
+                                "group": "",
+                                "content": {
+                                    "en": "• NLP Trainer in NLP University (University of California Santa cruz)",
+                                    "vi": "• Huấn luyện viên NLP tại Đại học NLP (Đại học California Santa cruz)"
+                                },
+                                "classes": ""
+                            },
+                            {
+                                "code": 8,
+                                "group": "",
+                                "content": {
+                                    "en": "• Knowledgeable on Advanced Hypnotherapist, life uni & member of American board of Hypnosis",
+                                    "vi": "• Có kiến thức về Chuyên gia thôi miên nâng cao, chuyên gia về cuộc sống & thành viên của hội đồng thôi miên Hoa Kỳ"
+                                },
+                                "classes": ""
+                            },
+                            {
+                                "code": 9,
+                                "group": "",
+                                "content": {
+                                    "en": "• Time- Line Therapist -Life University",
+                                    "vi": "• Chuyên gia trị liệu theo dòng thời gian - Đại học đời sống"
+                                },
+                                "classes": ""
+                            },
+                            {
+                                "code": 10,
+                                "group": "",
+                                "content": {
+                                    "en": "• With years of Business Development Experience in different countries such as Singapore, Malaysia, Vietnam, Thailand, Dubai, Bahrain and USA",
+                                    "vi": "• Với nhiều năm Kinh nghiệm Phát triển Kinh doanh tại các quốc gia khác nhau như Singapore, Malaysia, Việt Nam, Thái Lan, Dubai, Bahrain và Mỹ"
+                                },
+                                "classes": ""
+                            }
+                        ],
+                        "educations": []
+                    }
+                ]

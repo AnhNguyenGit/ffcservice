@@ -21,13 +21,14 @@
 	<link rel="stylesheet" href="assets/theme/css/style.css">
 	<link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css">
 	<link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
+	<link rel="stylesheet" href="common/css/common.css" type="text/css"/>
 	<link rel="stylesheet" href="assets/css/styles.css" type="text/css">
 
 
 
 </head>
 
-<body id="experts-page" style="overflow-x: hidden;">
+<body id="experts-page" style="overflow-x:hidden;" ng-app="ffcExpertApp" ng-controller="ffcExpertCtrl as vm">
 	<section once="footers" class="cid-rT7Xrgmc1y" id="footer6-1">
 		<div class="container">
 			<div class="media-container-row align-right mbr-white">
@@ -110,7 +111,7 @@
 
 	</section>
 
-	<div class="row justify-content-center pt-5 pb-5">
+	<!-- <div class="row justify-content-center pt-5 pb-5">
 		<div class="col-lg-3 align-center col-md-12 col-sm-12">
 			<div>
 				<img style="max-width:100%; width: 100%;" src="assets/images/experts/expert_01.png" />
@@ -157,7 +158,45 @@
 				</div>
 
 			</div>
-		</div>
+		</div> -->
+
+		<section id="experts-container" ng-if="vm.experts && vm.experts.length >0">
+			<div class="row justify-content-center pt-5 pb-5"  ng-repeat="item in vm.experts">
+					<div class="col-lg-3 align-center col-md-12 col-sm-12">
+						<div>				
+							<img style="max-width:100%; width: 100%;" src='{{item ? item.picture : ""}}'/>
+						</div>
+					</div>
+		
+					<div class="col-lg-5 align-center col-md-12 col-sm-12">
+						<div class="expert-inf-item-detail text-left align-left">
+							<div class="expert-inf-name" style="color: red;">
+								{{item.fullName}}
+							</div>
+							<div class="expert-inf-country">
+		
+								<div class="expert-inf-country-name middle-title">
+									{{item.countryName}}
+								</div>
+								<div class="expert-inf-country-flag">
+									<img src="{{item ? item.countryFlag : ''}}"/>
+								</div>
+							</div>
+				
+							<div class="expert-inf-experience" >
+								<div ng-repeat= "exp in item.experiences">
+									<p class="{{exp.classes}}" >{{exp.content}}</p>
+								</div>
+								<div class="middle-title" ng-if="item.educations && item.educations.length >0">GIÁO DỤC</div>
+								<p ng-repeat="edu in item.educations">{{edu.content}}</p>
+							</div>
+						
+					</div>
+				</div>
+			</div>
+	
+			
+		</section>
 	</div>
 
 
@@ -249,6 +288,9 @@
 	<noscript><img src="https://certify.alexametrics.com/atrk.gif?account=hQFZq1hNdI20fn" style="display:none"
 			height="1" width="1" alt="" /></noscript>
 	<!-- End Alexa Certify Javascript -->
+
+	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular.min.js"></script>
+	<script src="assets/js/app/app.js"></script>
 </body>
 
 </html>
